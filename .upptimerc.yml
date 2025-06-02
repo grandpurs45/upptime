@@ -4,7 +4,7 @@ repo: upptime pour Grandpurs45 # The name of this repository
 
 sites:
   - name: Cycleboss45
-    url: https://www.google.com
+    url: https://cycleboss45.fr/
     statusPageUrl: https://grandpurs45.statuspage.io/
     method: GET
     maxResponseTime: 5000
