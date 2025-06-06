@@ -4,19 +4,19 @@
     "url": "https://cycleboss45.fr/",
     "icon": "heart",
     "slug": "cycleboss45",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 831,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 742,
+    "timeDay": 651,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2025-06-06": 0
+      "2025-06-06": 30
     }
   }
 ]
