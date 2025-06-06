@@ -10,6 +10,8 @@ sites:
     maxResponseTime: 2000
     followRedirects: true
     icon: heart
+    assignees:
+      - grandpurs45
 
 
 status-website:
