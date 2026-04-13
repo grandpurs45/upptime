@@ -27,6 +27,18 @@ sites:
     assignees:
       - grandpurs45
 
+   - name: VerifApp - INGRE - Sortie pharmacie
+    url: http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form
+    statusPageUrl: https://grandpurs45.github.io/upptime
+    method: GET
+    maxResponseTime: 2000
+    followRedirects: true
+    icon: heart
+    type: globalping
+    location: france
+    assignees:
+      - grandpurs45
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
