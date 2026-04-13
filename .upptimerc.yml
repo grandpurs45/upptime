@@ -13,15 +13,15 @@ sites:
     assignees:
       - grandpurs45
 
-    - name: VerifApp - BO
-      url: http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form
-      statusPageUrl: https://grandpurs45.statuspage.io/
-      method: GET
-      maxResponseTime: 2000
-      followRedirects: true
-      icon: heart
-      assignees:
-        - grandpurs45
+  - name: VerifApp - BO
+    url: http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form
+    statusPageUrl: https://grandpurs45.statuspage.io/
+    method: GET
+    maxResponseTime: 2000
+    followRedirects: true
+    icon: heart
+    assignees:
+      - grandpurs45
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
