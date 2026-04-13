@@ -10,6 +10,8 @@ sites:
     maxResponseTime: 2000
     followRedirects: true
     icon: heart
+    type: globalping
+    location: france
     assignees:
       - grandpurs45
 
@@ -20,6 +22,8 @@ sites:
     maxResponseTime: 2000
     followRedirects: true
     icon: heart
+    type: globalping
+    location: france
     assignees:
       - grandpurs45
 
