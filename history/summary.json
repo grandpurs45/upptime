@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.64%",
-    "time": 715,
-    "timeDay": 867,
-    "timeWeek": 761,
-    "timeMonth": 702,
-    "timeYear": 715,
+    "time": 714,
+    "timeDay": 687,
+    "timeWeek": 729,
+    "timeMonth": 696,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2026-03-13": 44,
       "2025-10-01": 87,
@@ -24,5 +24,23 @@
       "2025-06-26": 854,
       "2025-06-06": 30
     }
+  },
+  {
+    "name": "VerifApp - BO",
+    "url": "http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form",
+    "icon": "heart",
+    "slug": "verif-app-bo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
+    "dailyMinutesDown": {}
   }
 ]
