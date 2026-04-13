@@ -27,7 +27,7 @@ sites:
     assignees:
       - grandpurs45
 
-   - name: VerifApp - INGRE - Sortie pharmacie
+  - name: VerifApp - INGRE - Sortie pharmacie
     url: http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
