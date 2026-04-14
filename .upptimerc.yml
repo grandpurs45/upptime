@@ -7,7 +7,7 @@ sites:
     url: https://cycleboss45.fr/
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
-    maxResponseTime: 2000
+    maxResponseTime: 500
     followRedirects: true
     icon: heart
     type: globalping
@@ -19,7 +19,7 @@ sites:
     url: http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
-    maxResponseTime: 2000
+    maxResponseTime: 500
     followRedirects: true
     icon: heart
     type: globalping
@@ -31,7 +31,7 @@ sites:
     url: http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
-    maxResponseTime: 2000
+    maxResponseTime: 500
     followRedirects: true
     icon: heart
     type: globalping
