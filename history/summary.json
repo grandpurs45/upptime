@@ -48,17 +48,19 @@
     "url": "http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form",
     "icon": "heart",
     "slug": "verif-app-ingre-sortie-pharmacie",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 150,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 820,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2026-04-17": 0
+    }
   }
 ]
