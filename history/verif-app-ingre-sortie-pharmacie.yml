@@ -1,7 +1,7 @@
 url: http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form
 status: up
-code: 302
+code: 301
 responseTime: 118
-lastUpdated: 2026-04-28T23:59:52.133Z
+lastUpdated: 2026-04-30T00:01:25.030Z
 startTime: 2026-04-13T15:09:39.916Z
 generator: Upptime <https://github.com/upptime/upptime>
