@@ -1,7 +1,7 @@
 url: http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form
-status: down
-code: null
-responseTime: 0
-lastUpdated: 2026-05-04T06:42:59.180Z
+status: degraded
+code: 301
+responseTime: 2549
+lastUpdated: 2026-05-04T09:06:21.967Z
 startTime: 2026-04-13T13:37:38.589Z
 generator: Upptime <https://github.com/upptime/upptime>
