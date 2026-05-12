@@ -16,7 +16,7 @@ sites:
       - grandpurs45
 
   - name: VerifApp - BO
-    url: http://verifapp.duckdns.org:8080/index.php?controller=manager_auth&action=login_form
+    url: https://verifapp.oudard-lab.fr/index.php?controller=manager_auth&action=login_form
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
     maxResponseTime: 500
@@ -28,7 +28,7 @@ sites:
       - grandpurs45
 
   - name: VerifApp - INGRE - Sortie pharmacie
-    url: http://verifapp.duckdns.org:8080/index.php?controller=pharmacy&action=form
+    url: https://verifapp.oudard-lab.fr/index.php?controller=pharmacy&action=form
     statusPageUrl: https://grandpurs45.github.io/upptime
     method: GET
     maxResponseTime: 500
