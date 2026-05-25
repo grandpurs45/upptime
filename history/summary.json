@@ -4,10 +4,10 @@
     "url": "https://cycleboss45.fr/",
     "icon": "heart",
     "slug": "cycleboss45",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.61%",
     "time": 637,
@@ -25,7 +25,8 @@
       "2026-03-13": 44,
       "2026-04-30": 105,
       "2026-05-03": 105,
-      "2026-05-11": 143
+      "2026-05-11": 143,
+      "2026-05-25": 1
     }
   },
   {
@@ -33,16 +34,16 @@
     "url": "https://verifapp.oudard-lab.fr/index.php?controller=manager_auth&action=login_form",
     "icon": "heart",
     "slug": "verif-app-bo",
-    "status": "up",
-    "uptime": "96.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.32%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.90%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.32%",
     "time": 501,
     "timeDay": 91,
     "timeWeek": 91,
-    "timeMonth": 655,
+    "timeMonth": 629,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2026-04-30": 238,
@@ -50,7 +51,8 @@
       "2026-05-03": 105,
       "2026-05-04": 127,
       "2026-05-12": 895,
-      "2026-05-11": 732
+      "2026-05-11": 732,
+      "2026-05-25": 0
     }
   },
   {
@@ -58,16 +60,16 @@
     "url": "https://verifapp.oudard-lab.fr/index.php?controller=pharmacy&action=form",
     "icon": "heart",
     "slug": "verif-app-ingre-sortie-pharmacie",
-    "status": "up",
-    "uptime": "95.76%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.83%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "95.76%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "95.83%",
     "time": 437,
     "timeDay": 87,
     "timeWeek": 95,
-    "timeMonth": 521,
+    "timeMonth": 483,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2026-04-17": 43,
@@ -79,7 +81,8 @@
       "2026-05-03": 105,
       "2026-05-04": 143,
       "2026-05-12": 895,
-      "2026-05-11": 731
+      "2026-05-11": 731,
+      "2026-05-25": 0
     }
   }
 ]
