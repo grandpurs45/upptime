@@ -1,7 +1,7 @@
 url: https://verifapp.oudard-lab.fr/index.php?controller=manager_auth&action=login_form
 status: up
 code: 200
-responseTime: 89
-lastUpdated: 2026-11-10T04:32:56.792Z
+responseTime: 115
+lastUpdated: 2026-11-11T02:39:36.517Z
 startTime: 2026-04-13T13:37:38.589Z
 generator: Upptime <https://github.com/upptime/upptime>
